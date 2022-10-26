@@ -61,7 +61,7 @@ proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-  - name: 🎯 全球直连
+  - name: 🎯 全球直连 
     type: select
     proxies:
       - DIRECT
